@@ -55,7 +55,7 @@ function Resizeable() {
           </div>
           <Splitter isDragging={isFileDragging} {...fileDragBarProps} />
           <div className={"flex grow"}>
-            <div className={"grow bg-darker contents"}>Editor</div>
+            <div className={"grow bg-darker contents"}>WELCOME</div>
           </div>
         </div>
         <Splitter
